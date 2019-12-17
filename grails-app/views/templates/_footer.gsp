@@ -8,7 +8,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.craftcellr.com">
+                    <a href="https://www.company.com">
                         Company
                     </a>
                 </li>
