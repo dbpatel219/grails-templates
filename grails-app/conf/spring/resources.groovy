@@ -1,4 +1,4 @@
-import grails3_3_11_template.MyUserPasswordEncoderListener
+import com.company.MyUserPasswordEncoderListener
 
 // Place your Spring DSL code here
 beans = {

@@ -22,9 +22,9 @@ grails.plugin.springsecurity.rememberMe.cookieName = 'comapny_portal'
 grails.plugin.springsecurity.rememberMe.key = 'CompanyAPI'
 
 // Added by the Spring Security Core plugin:
-grails.plugin.springsecurity.userLookup.userDomainClassName = 'grails3_3_11_template.MyUser'
-grails.plugin.springsecurity.userLookup.authorityJoinClassName = 'grails3_3_11_template.MyUserMyRole'
-grails.plugin.springsecurity.authority.className = 'grails3_3_11_template.MyRole'
+grails.plugin.springsecurity.userLookup.userDomainClassName = 'com.company.MyUser'
+grails.plugin.springsecurity.userLookup.authorityJoinClassName = 'com.company.MyUserMyRole'
+grails.plugin.springsecurity.authority.className = 'com.company.MyRole'
 
 grails.plugin.springsecurity.logout.postOnly = false
 grails.plugin.springsecurity.successHandler.defaultTargetUrl = "/"

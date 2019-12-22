@@ -2,7 +2,7 @@
 grails:
     profile: web
     codegen:
-        defaultPackage: grails3_3_11_template
+        defaultPackage: com.company
     gorm:
         reactor:
             # Whether to translate GORM events into Reactor events

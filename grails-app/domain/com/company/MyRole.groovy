@@ -1,4 +1,4 @@
-package grails3_3_11_template
+package com.company
 
 import grails.compiler.GrailsCompileStatic
 import groovy.transform.EqualsAndHashCode
